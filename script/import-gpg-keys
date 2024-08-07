@@ -1,0 +1,6 @@
+#!/bin/sh
+# Install all dotfiles into the home directory
+
+gpg --import gpg-pub.asc
+
+gpg --import gpg-sc.asc

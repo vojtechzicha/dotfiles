@@ -1,0 +1,5 @@
+#!/bin/sh
+# Install all dotfiles into the home directory
+
+gpg --export -a 1CB9D4D6 > gpg-pub.asc
+gpg --export-secret-keys -a 1CB9D4D6 > gpg-sc.asc
