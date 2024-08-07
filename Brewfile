@@ -108,10 +108,6 @@ cask "appcleaner"
 cask "carbon-copy-cloner"
 # OpenAI's official ChatGPT desktop app
 cask "chatgpt"
-# Elgato FACECAM configuration tool
-cask "elgato-camera-hub"
-# Control your Elgato key lights
-cask "elgato-control-center"
 cask "font-abel"
 cask "font-fjalla-one"
 cask "font-inter"
@@ -127,12 +123,8 @@ cask "keepingyouawake"
 cask "quitter"
 # Utility to resize and position application windows
 cask "sizeup"
-# Virtual machines UI using QEMU
-cask "utm"
 # Open-source code editor
 cask "visual-studio-code"
-# Installer for Workbrew Agent
-cask "workbrew"
 # Video communication and virtual meeting platform
 cask "zoom"
 mas "1Blocker", id: 1365531024
@@ -183,3 +175,47 @@ vscode "stylelint.vscode-stylelint"
 vscode "timonwong.shellcheck"
 
 brew "pinentry-mac"
+brew "awscli"
+brew "azure-cli"
+brew "ffmpeg"
+brew "flyctl"
+brew "openjdk"
+brew "gradle"
+brew "graphviz"
+brew "k9s"
+brew "kubernetes-cli"
+brew "p7zip"
+brew "telnet"
+brew "yarn"
+brew "mongodb/brew/mongodb-community"
+cask "android-studio"
+cask "calibre"
+cask "dbeaver-community"
+cask "docker"
+cask "dotnet-sdk"
+cask "font-cascadia-code-pl"
+cask "font-monaspace"
+cask "font-monaspace-nerd-font"
+cask "font-mulish"
+cask "google-drive"
+cask "microsoft-auto-update"
+cask "microsoft-remote-desktop"
+cask "microsoft-teams"
+cask "pinta"
+cask "projectlibre"
+cask "readdle-spark"
+cask "rectangle-pro"
+cask "scroll-reverser"
+cask "sony-ps-remote-play"
+cask "steam"
+cask "tunnelblick"
+cask "vlc"
+cask "warp"
+mas "1Password for Safari", id: 1569813296
+mas "Adblock Plus", id: 1432731683
+mas "Greenshot", id: 1103915944
+mas "Keynote", id: 409183694
+mas "NEWTON UNIVERSE", id: 1532374374
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Things", id: 904280696
