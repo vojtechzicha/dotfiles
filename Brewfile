@@ -127,14 +127,14 @@ cask "visual-studio-code"
 cask "zoom"
 mas "1Blocker", id: 1365531024
 mas "1Password for Safari", id: 1569813296
-mas "Cardhop", id: 1290358394
+# mas "Cardhop", id: 1290358394
 mas "Fantastical", id: 975937182
 mas "GarageBand", id: 682658836
-mas "In Your Face", id: 1476964367
+# mas "In Your Face", id: 1476964367
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Refined GitHub", id: 1519867270
+# mas "Refined GitHub", id: 1519867270
 mas "Slack", id: 803453959
 mas "WhatsApp", id: 1147396723
 mas "Xcode", id: 497799835
