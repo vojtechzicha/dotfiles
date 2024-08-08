@@ -1,13 +1,11 @@
 tap "homebrew/aliases"
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/command-not-found"
-tap "homebrew/core"
 tap "homebrew/formula-analytics"
 tap "homebrew/portable-ruby"
 tap "homebrew/services"
 tap "homebrew/test-bot"
-tap "workbrew/tap"
+tap "mongodb/brew"
 # Search tool like grep, but optimized for programmers
 brew "ack"
 # Static checker for GitHub Actions workflow files
@@ -136,11 +134,8 @@ mas "In Your Face", id: 1476964367
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Pixelmator Pro", id: 1289583905
 mas "Refined GitHub", id: 1519867270
 mas "Slack", id: 803453959
-mas "StopTheMadness", id: 1376402589
-mas "TouchDraw", id: 1580322028
 mas "WhatsApp", id: 1147396723
 mas "Xcode", id: 497799835
 vscode "aliariff.vscode-erb-beautify"
